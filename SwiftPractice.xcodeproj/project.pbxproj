@@ -22,6 +22,7 @@
 		B68C1FE71D24E7A300B001AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B68C1FEA1D24E7A300B001AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B68C1FEC1D24E7A300B001AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B68C1FF31D24E7CF00B001AD /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				B68C1FE71D24E7A300B001AD /* Assets.xcassets */,
 				B68C1FE91D24E7A300B001AD /* LaunchScreen.storyboard */,
 				B68C1FEC1D24E7A300B001AD /* Info.plist */,
+				B68C1FF31D24E7CF00B001AD /* MyPlayground.playground */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
